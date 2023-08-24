@@ -1,0 +1,5 @@
+/backend/venv/
+/backend/__pycache__/
+/client/node_modules/
+/.vscode
+/ffmpeg-6.0
